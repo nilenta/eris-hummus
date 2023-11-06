@@ -1,4 +1,4 @@
-Eris for Hummus [![NPM version](https://img.shields.io/npm/v/eris_hummus.svg?style=flat-square&color=informational)](https://npmjs.com/package/eris_hummus)
+Eris for Hummus [![NPM version](https://img.shields.io/npm/v/eris-hummus.svg?style=flat-square&color=informational)](https://npmjs.com/package/eris-hummus)
 ====
 
 A Node.js wrapper for interfacing with Hummus.
@@ -9,7 +9,7 @@ Installing
 You will need NodeJS 10.4+. If you need voice support you will also need Python 2.7 and a C++ compiler. Refer to [the Getting Started section of the docs](https://abal.moe/Eris/docs) for more details.
 
 ```
-npm install --no-optional eris_hummus
+npm install --no-optional eris-hummus
 ```
 
 If you need voice support, remove the `--no-optional`.
@@ -18,7 +18,7 @@ Ping Pong Example
 -----------------
 
 ```js
-const Eris = require("eris_hummus");
+const Eris = require("eris-hummus");
 
 // Replace TOKEN with your bot account's token
 const bot = new Eris("Bot TOKEN", {
@@ -54,7 +54,7 @@ Useful Links
 ------------
 
 - [The GitHub repo](https://github.com/nilenta/eris-hummus) is where development primarily happens.
-- [The NPM package webpage](https://npmjs.com/package/eris_hummus) is, well, the webpage for the NPM package.
+- [The NPM package webpage](https://npmjs.com/package/eris-hummus) is, well, the webpage for the NPM package.
 
 License
 -------

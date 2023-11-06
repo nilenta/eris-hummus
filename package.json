@@ -1,5 +1,5 @@
 {
-  "name": "eris_hummus",
+  "name": "eris-hummus",
   "version": "0.0.3",
   "description": "A NodeJS Hummus library, fork of discords Eris package.",
   "main": "./index.js",
@@ -32,10 +32,11 @@
     "api",
     "discord",
     "discordapp",
+    "hummus",
     "eris",
     "wrapper"
   ],
-  "author": "abalabahaha",
+  "author": "nilenta",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nilenta/eris-hummus/issues"
