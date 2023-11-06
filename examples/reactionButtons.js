@@ -1,4 +1,4 @@
-const Eris = require("eris-hummus");
+const Eris = require("eris_hummus");
 
 // Replace TOKEN with your bot account's token
 const bot = new Eris.CommandClient("Bot TOKEN", {}, {

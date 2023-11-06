@@ -1,5 +1,5 @@
 {
-  "name": "eris-hummus",
+  "name": "eris_hummus",
   "version": "0.0.1-hummus",
   "description": "A NodeJS Hummus library, fork of discords Eris package.",
   "main": "./index.js",
