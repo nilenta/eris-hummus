@@ -48,12 +48,12 @@ bot.on("messageCreate", (msg) => { // When a message is created
 bot.connect(); // Get the bot to connect to Discord
 ```
 
-More examples can be found in [the examples folder](https://github.com/abalabahaha/eris/tree/master/examples).
+More examples can be found in [the examples folder](https://github.com/nilenta/eris-hummus/tree/master/examples).
 
 Useful Links
 ------------
 
-- [The GitHub repo](https://github.com/nilenta/eris_hummus) is where development primarily happens.
+- [The GitHub repo](https://github.com/nilenta/eris-hummus) is where development primarily happens.
 - [The NPM package webpage](https://npmjs.com/package/eris_hummus) is, well, the webpage for the NPM package.
 
 License
