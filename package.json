@@ -1,7 +1,7 @@
 {
-  "name": "eris",
-  "version": "0.17.2-hummus",
-  "description": "A NodeJS Hummus library",
+  "name": "eris-hummus",
+  "version": "0.0.1-hummus",
+  "description": "A NodeJS Hummus library, fork of discords Eris package.",
   "main": "./index.js",
   "exports": {
     ".": [
