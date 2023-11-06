@@ -1,7 +1,7 @@
 {
   "name": "eris",
-  "version": "0.17.2",
-  "description": "A NodeJS Discord library",
+  "version": "0.17.2-hummus",
+  "description": "A NodeJS Hummus library",
   "main": "./index.js",
   "exports": {
     ".": [
