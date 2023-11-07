@@ -1,12 +1,7 @@
 const Eris = require("eris-hummus");
 
 // Replace TOKEN with your bot account's token
-const bot = new Eris("Bot TOKEN", {
-    intents: [
-        "guilds",
-        "guildMessages"
-    ]
-});
+const bot = new Eris("Bot TOKEN");
 
 bot.on("ready", () => { // When the bot is ready
     console.log("Ready!"); // Log "Ready!"

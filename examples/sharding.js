@@ -5,8 +5,7 @@ const bot = new Eris("Bot TOKEN", {
     firstShardID: 0,
     lastShardID: 15,
     maxShards: 16,
-    getAllUsers: false,
-    intents: ["guilds", "guildMembers", "guildPresences"]
+    getAllUsers: false
 });
 
 bot.on("ready", () => { // When the bot is ready
