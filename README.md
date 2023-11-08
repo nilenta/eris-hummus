@@ -25,6 +25,7 @@ const bot = new Eris("Bot TOKEN");
 
 bot.on("ready", () => { // When the bot is ready
     console.log("Ready!"); // Log "Ready!"
+    bot.editStatus("online", {name: "Game", type: 1}) // You can change online to stuff like dnd, and the game to anything you want.
 });
 
 bot.on("error", (err) => {
